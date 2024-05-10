@@ -1,4 +1,4 @@
-👩‍💼 ¡Hola! Soy Sandra, una apasionada ingeniera ambiental y analista de datos con un fuerte interés en los Sistemas de Información Geográfica (GIS).
+👩‍💼 ¡Hola! Soy Sandra, una apasionada analista de datos e ingeniera ambiental con un fuerte interés en los Sistemas de Información Geográfica (GIS) y en analisis de datos en proyectos de gran impacto.
 
 🔭 Actualmente estoy interesada en proyectos de análisis de datos que incorporan GIS para entender mejor la interacción entre el medio ambiente y la sociedad, buscando soluciones sostenibles a los desafíos ambientales.
 
@@ -21,9 +21,6 @@
 ¡Gracias por pasar por aquí y espero conectarnos pronto!
 
 
-
-
-### Hola 👋
 
 <!--
 **Sandrapcv/Sandrapcv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
