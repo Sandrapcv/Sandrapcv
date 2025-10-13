@@ -1,4 +1,4 @@
-👩‍💼 ¡Hola! Soy Sandra, una apasionada analista de datos e ingeniera ambiental con un fuerte interés en los Sistemas de Información Geográfica (GIS) y en analisis de datos en proyectos de gran impacto.
+👩‍💼 ¡Hola! Soy Sandra, una ingeniera ambiental apasionada por el analisis de datos en proyectos de gran impacto.
 
 🔭 Actualmente estoy interesada en colaborar con proyectos de análisis de datos para contribuir en la toma de desiciones estratégicas, buscando soluciones sostenibles a los desafíos ambientales, sociales y empresariales.Estoy abierta a proyectos de diversas áreas que me permitan continuar afianzando conocimientos y desarrollando habilidades.
 
