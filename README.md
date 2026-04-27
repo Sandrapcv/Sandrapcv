@@ -22,7 +22,7 @@ Gestión: Notion, Slack, Google Workspace.
 
 🙏 Crecimiento y Fe: Mi fe y mi crecimiento espiritual son el motor de mis valores, integridad y ética profesional.
 
-🎨 Creatividad: Dibujo mandalas para equilibrar mi lado analítico con la expresión artística.
+🎨 Creatividad: Dibujo para equilibrar mi lado analítico con la expresión artística.
 
 🥾 Naturaleza: Practico senderismo para apreciar la creación y disfrutar de la serenidad del aire libre.
 
