@@ -25,3 +25,6 @@ Gestión: Notion, Slack, Google Workspace.
 🎨 Creatividad: Dibujo mandalas para equilibrar mi lado analítico con la expresión artística.
 
 🥾 Naturaleza: Practico senderismo para apreciar la creación y disfrutar de la serenidad del aire libre.
+
+
+📍 Medellín, Colombia (Disponible para roles remotos o híbridos)
