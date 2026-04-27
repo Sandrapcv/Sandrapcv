@@ -19,6 +19,7 @@ Mapping: ArcGIS, QGIS.
 Gestión: Notion, Slack, Google Workspace.
 
 🌿 Más allá de los datos
+
 🎨 Creatividad: Dibujo mandalas para equilibrar mi lado analítico con la expresión artística.
 
 📚 Crecimiento: Lectora constante sobre autoconocimiento y desarrollo personal.
