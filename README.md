@@ -10,7 +10,7 @@ Ingeniera ambiental y BI Analyst con trayectoria desarrollando soluciones de Bus
 
 🛠️ Stack Técnico
 
-Visualización: Power BI (DAX avanzado, Modelado de datos, Power Query).
+Visualización: Power BI (DAX , Modelado de datos, Power Query).
 
 Análisis de Datos: Python (Pandas), SQL (MySQL).
 
