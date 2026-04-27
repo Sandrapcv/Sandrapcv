@@ -1,6 +1,6 @@
 ¡Hola! Soy Sandra, 
 
-BI Analyst e ingeniera ambiental con trayectoria desarrollando soluciones de Business Intelligence de manera autónoma y colaborativa.  Con una sólida capacidad analítica, enfocada en el Data Storytelling y la optimización de flujos de trabajo para generar claridad, eficiencia y agilidad organizacional.
+Ingeniera ambiental y BI Analyst con trayectoria desarrollando soluciones de Business Intelligence de manera autónoma y colaborativa.  Con una sólida capacidad analítica, enfocada en el Data Storytelling y la optimización de flujos de trabajo para generar claridad, eficiencia y agilidad organizacional.
 
 📈 Impacto Comprobado: Especialista en la transición de procesos manuales a dashboards dinámicos, logrando reducir tiempos de reporte de días de trabajo a menos de una hora.
 
