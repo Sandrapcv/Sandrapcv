@@ -8,15 +8,14 @@ Ingeniera ambiental y BI Analyst con trayectoria desarrollando soluciones de Bus
 
 🤝 Colaboración: Experiencia en entornos de simulación profesional y proyectos independientes, aplicando metodologías ágiles para la entrega de valor.
 
-🛠️ Stack Técnico
+### 🛠️ Stack Técnico
 
-Visualización: Power BI (DAX , Modelado de datos, Power Query).
-
-Análisis de Datos: Python (Pandas), SQL (MySQL).
-
-Mapping: ArcGIS, QGIS.
-
-Gestión: Notion, Slack, Google Workspace.
+| Categoría | Herramientas y Tecnologías |
+| :--- | :--- |
+| **Visualización** 📊 | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black) **DAX**, **Modelado de datos**, **Power Query** |
+| **Análisis** 📈 | ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) **Pandas** / ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white) |
+| **Mapping** 🌍 | ![ArcGIS](https://img.shields.io/badge/ArcGIS-005E95?style=plastic&logo=arcgis&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=plastic&logo=qgis&logoColor=white) |
+| **Gestión** ⚙️ | ![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white) ![Google](https://img.shields.io/badge/Google_Workspace-4285F4?style=plastic&logo=google&logoColor=white) |
 
 🌿 Más allá de los datos
 
