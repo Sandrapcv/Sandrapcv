@@ -33,7 +33,7 @@ Gestión: Notion, Slack, Google Workspace.
 
 | Herramienta | Descripción de Aplicación Profesional |
 | :--- | :--- |
-| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | Creación de dashboards interactivos y modelado de datos con DAX para visualización de KPIs agrícolas y ambientales. |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Análisis estadístico y limpieza de grandes sets de datos (Pandas/NumPy). Automatización de procesos de datos. |
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | Gestión de bases de datos relacionales, diseño de esquemas y consultas complejas para extracción de insights. |
-| ![GIS](https://img.shields.io/badge/GIS-689F38?style=for-the-badge&logo=googleearth&logoColor=white) | Análisis de datos geoespaciales y mapeo de variables climáticas y de suelo para toma de decisiones territoriales. |
+| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | Desarrollo de modelos de datos integrales y dashboards interactivos. Uso de DAX para métricas de negocio y visualización de KPIs para cualquier sector organizacional. |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Automatización de procesos ETL, limpieza de datos con Pandas y análisis estadístico para proyecciones y tendencias. |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | Estructuración de bases de datos relacionales, ejecución de consultas optimizadas y mantenimiento de la integridad de la información. |
+| ![GIS](https://img.shields.io/badge/GIS-689F38?style=for-the-badge&logo=googleearth&logoColor=white) | Especialista en análisis geoespacial para inteligencia de ubicación, mapeo de recursos y análisis territorial aplicado a proyectos de impacto. |
