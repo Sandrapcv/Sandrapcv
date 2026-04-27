@@ -1,24 +1,29 @@
-👩‍💼 ¡Hola! Soy Sandra, una ingeniera ambiental apasionada por el analisis de datos en proyectos de gran impacto.
+¡Hola! Soy Sandra, Ingeniera Ambiental y Analista de Datos. Mi enfoque principal es la visualización estratégica, transformando información compleja en tableros interactivos que facilitan la medición de KPIs y la toma de decisiones basada en datos.
 
-🔭 Actualmente estoy interesada en colaborar con proyectos de análisis de datos para contribuir en la toma de desiciones estratégicas, buscando soluciones sostenibles a los desafíos ambientales, sociales y empresariales.Estoy abierta a proyectos de diversas áreas que me permitan continuar afianzando conocimientos y desarrollando habilidades.
+Me encamino hacia el rol de Especialista en Visualización de Datos, priorizando siempre la claridad, la automatización de procesos y el diseño de indicadores que generen un impacto real en la agilidad organizacional.
 
-🌱 Siempre estoy aprendiendo y mejorando mis habilidades en herramientas como Python, SQL y visualización de datos, así como en el uso de software GIS como ArcGIS y QGIS, para llevar mi análisis al siguiente nivel.
+🚀 Enfoque Actual
+📊 Visualización de Datos: Creación de dashboards dinámicos en Power BI, centrados en la narrativa de datos (Data Storytelling) y la experiencia del usuario.
 
-🎨 En mi tiempo libre, me verás dibujando mandalas, dándole un descanso creativo a mi lado analítico.
+⚙️ Automatización de KPIs: Integración de fuentes de datos para eliminar tareas manuales, optimizando tiempos de respuesta de días a minutos.
 
-📚 También disfruto sumergirme en las páginas de libros, siempre en busca de inspiración y conocimiento, especialmente en temas relacionados con el autoconocimiento y mejora del ser.
+💡 Toma de Decisiones: Diseño de soluciones analíticas que permiten a los equipos reaccionar con precisión ante desafíos empresariales.
 
-🥾 Y cuando necesito desconectar del mundo digital, me encontrarás explorando senderos naturales, respirando aire fresco y disfrutando de la serenidad de la naturaleza.
+🛠️ Stack Técnico
+Visualización: Power BI (DAX, Modelado de datos, Power Query).
 
-💬 Si tienes alguna pregunta sobre análisis de datos, GIS o simplemente quieres charlar sobre algun proyecto, ¡no dudes en preguntarme!
+Análisis de Datos: Python (Pandas), SQL (MySQL).
 
-📫 Puedes contactarme para cualquier colaboración o consulta.
+Mapping: ArcGIS, QGIS.
 
-😄 Pronombres: Ella/ella.
+Gestión: Notion, Slack, Google Workspace.
 
-⚡ Dato curioso: ¡Puedo encontrar patrones en los datos y también en la naturaleza mientras hago senderismo!
+🌿 Más allá de los datos
+🎨 Creatividad: Dibujo mandalas para equilibrar mi lado analítico con la expresión artística.
 
-¡Gracias por pasar por aquí y espero conectarnos pronto!
+📚 Crecimiento: Lectora constante sobre autoconocimiento y desarrollo personal.
+
+🥾 Naturaleza: Practico senderismo para desconectar del mundo digital; nada me recarga más que apreciar la naturaleza y disfrutar de la serenidad del aire libre.
 
 
 
