@@ -28,3 +28,12 @@ Gestión: Notion, Slack, Google Workspace.
 
 
 📍 Medellín, Colombia (Disponible para roles remotos o híbridos)
+
+### 🛠️ Skill Stack & Herramientas
+
+| Herramienta | Descripción de Aplicación Profesional |
+| :--- | :--- |
+| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | 
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | 
+| ![GIS](https://img.shields.io/badge/GIS-689F38?style=for-the-badge&logo=googleearth&logoColor=white) | 
